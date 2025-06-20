@@ -20,8 +20,8 @@ The dataset is sourced from **Kaggle** or similar public data repositories and c
 **PRICE** – The resale value of the car (**continuous numerical value**)
 
 ---
-
-## 📘 **USED CAR PRICE DATASET – KAGGLE**
+DATASET LINK:
+https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
 ---
 
